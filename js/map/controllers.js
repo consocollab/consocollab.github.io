@@ -81,9 +81,9 @@
         }
       },
       center: {
-        lat: 46.43,
-        lng: 2.35,
-        zoom: 5
+        lat: 48.14,
+        lng: -2.8,
+        zoom: 8
       },
       markers: []
     });
