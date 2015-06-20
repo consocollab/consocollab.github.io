@@ -6,7 +6,7 @@
     projectSheetTemplateSlug: 'is',
     defaultSiteTags: ['consocollab'],
     editorialSuggestedTags: ['Alimentation', 'Équipements', 'Mobilité', 'Services', 'Tourisme - Hébergements', 'Culture'],
-    defaultResultLimit: 900,
+    defaultResultLimit: 200,
     bucket_uri: 'http://data.patapouf.org/bucket/upload/',
     loginBaseUrl: 'http://data.patapouf.org/api/v0',
     oauthBaseUrl: 'http://bretagne.initiative.place',
