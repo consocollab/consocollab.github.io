@@ -8543,7 +8543,6 @@ ul.pagination a:hover {
   z-index: 10001;
   -moz-box-shadow: 0 3px 2px rgba(0, 0, 0, 0.25);
   -webkit-box-shadow: 0 3px 2px rgba(0, 0, 0, 0.25);
-  box-shadow: 0 3px 2px rgba(0, 0, 0, 0.25);
 }
 
 /* line 18, sass/_header.scss */
@@ -9769,7 +9768,7 @@ header {
 /* line 2, sass/_menu.scss */
 header #menu {
   font-size: 0.95em;
-  background-color: #f2f2f2;
+  background-color: #FAA732;
 }
 /* line 7, sass/_menu.scss */
 header #menu.navbar {
