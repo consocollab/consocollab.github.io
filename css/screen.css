@@ -9769,7 +9769,7 @@ header {
 /* line 2, sass/_menu.scss */
 header #menu {
   font-size: 0.95em;
-  background-color: black;
+  background-color: #f2f2f2;
 }
 /* line 7, sass/_menu.scss */
 header #menu.navbar {
