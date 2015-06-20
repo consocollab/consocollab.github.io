@@ -4,7 +4,7 @@
     projectSheetTemplateSlug: 'is',
     defaultSiteTags: ['consocollab'],  # comma-separated list of site tags
     editorialSuggestedTags : ['Alimentation', 'Équipements', 'Mobilité', 'Services', 'Tourisme - Hébergements', 'Culture'], # list of tags suggested instead of most popular ones
-    defaultResultLimit : 28, # nb of results loaded by default in projects list page
+    defaultResultLimit : 900, # nb of results loaded by default in projects list page
 
 
     # Commons-dev patapouf server
