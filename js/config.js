@@ -5,7 +5,7 @@
     useHtml5Mode: false,
     projectSheetTemplateSlug: 'is',
     defaultSiteTags: ['consocollab'],
-    editorialSuggestedTags: ['Alimentation', 'Équipements', 'Mobilité', 'Services', 'Tourisme - Hébergements', 'Culture'],
+    editorialSuggestedTags: ['alimentation', 'équipements', 'mobilité', 'services', 'tourisme-hébergements', 'culture'],
     defaultResultLimit: 200,
     bucket_uri: 'http://data.patapouf.org/bucket/upload/',
     loginBaseUrl: 'http://data.patapouf.org/api/v0',
