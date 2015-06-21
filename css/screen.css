@@ -9189,12 +9189,12 @@ div.crumbs a:hover {
 }
 /* line 534, sass/_header.scss */
 .intro-project .intro .row > div:first-child img, .intro-resource .intro .row > div:first-child img {
-  position: absolute;
   top: 0;
   left: 15px;
   display: block;
   width: 100%;
   height: 393px;
+  margin-left:15px;
 }
 
 /* line 1, sass/_homepage.scss */
